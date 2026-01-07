@@ -1,0 +1,14 @@
+{
+  "name": "kubernetes-skills",
+  "version": "1.0.0",
+  "description": "Kubernetes skills for Claude",
+  "author": "Nobody",
+  "skills": [
+    "skills/kubernetes-basics",
+    "skills/kubernetes-deployment",
+    "skills/kubernetes-networking",
+    "skills/kubernetes-storage",
+    "skills/kubernetes-security"
+  ]
+}
+
