@@ -33,6 +33,11 @@ kubernetes-skills/
 
 This project follows the structure of [obsidian-skills](https://github.com/kepano/obsidian-skills) and is designed to be used as a Claude plugin. The skills are organized as markdown files that contain Kubernetes knowledge, examples, and best practices.
 
+## Roadmap
+
+The full roadmap for integrating Claude agents with Kubernetes (Phase 1–3) has been moved to `ROADMAP.md`.  
+See that file for detailed milestones, architecture plans, and AI infrastructure integration goals.
+
 ## Contributing
 
 Feel free to add more Kubernetes skills or improve existing ones. Each skill file should be well-organized with clear sections, examples, and practical information.
