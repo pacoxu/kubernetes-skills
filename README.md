@@ -13,6 +13,7 @@ This project provides structured Kubernetes knowledge organized into skill modul
 - **kubernetes-networking**: Services, Ingress, Network Policies, and DNS
 - **kubernetes-storage**: Volumes, PersistentVolumes, PersistentVolumeClaims, and Storage Classes
 - **kubernetes-security**: Service Accounts, RBAC, Secrets, Security Context, and Pod Security Standards
+- **kubernetes-sre**: SRE practices including daily inspections, troubleshooting, monitoring, and incident response
 
 ## Structure
 
@@ -25,7 +26,8 @@ kubernetes-skills/
 │   ├── kubernetes-deployment.md
 │   ├── kubernetes-networking.md
 │   ├── kubernetes-storage.md
-│   └── kubernetes-security.md
+│   ├── kubernetes-security.md
+│   └── kubernetes-sre.md
 └── README.md
 ```
 
